@@ -1,0 +1,12 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Data
+*.csv
+*.xlsx
+
+# MacOS
+.DS_Store
